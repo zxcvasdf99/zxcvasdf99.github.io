@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 안드로이드 스튜디오로 앱 개발하기(1.메인화면)
-date: 2021-03-02 23:18 +0800
-last_modified_at: 2021-12-31 01:08:25 +0800
+title: 안드로이드 스튜디오 앱 개발하기 첫번째
+date: 2021-08-02 23:18 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 ---
