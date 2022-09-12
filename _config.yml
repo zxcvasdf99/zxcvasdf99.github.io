@@ -5,7 +5,7 @@ url: https://zxcvasdf99.github.io
 avatar: /cat.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /galaxy.jpeg
 
 # Gems
 plugins:
@@ -33,7 +33,7 @@ exclude:
 #   card: summary
 # logo: logo.png
 social:
-  name: Songzi Vong
+  name: ju yeon Hong
   links:
     - https://github.com/zxcvasdf99
 google_site_verification: xxxxx
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: ju yeon Hong
+  url: https://github.com/zxcvasdf99/
+  email: ghdwn643@naver.com
