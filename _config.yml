@@ -1,11 +1,11 @@
 # Setup
-title: Ju Yeon Hong
+title: JuYeon Hong
 description: portfolio
-url: https://zxcvasdf99.github.io
-avatar: /cat.jpeg
+url: https://vszhub.github.io
+avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /galaxy.jpeg
+cover_image: /bg.jpeg
 
 # Gems
 plugins:
@@ -28,14 +28,15 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
- twitter:
-   username: vszhub
-   card: summary
- logo: logo.png
+twitter:
+  username: vszhub
+  card: summary
+logo: logo.png
 social:
-  name: ju yeon Hong
+  name: Songzi Vong
   links:
-    - https://github.com/zxcvasdf99
+    - https://twitter.com/vszhub
+    - https://github.com/vszhub
 google_site_verification: xxxxx
 lang: en
 
@@ -53,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: ju yeon Hong
-  url: https://github.com/zxcvasdf99/
-  email: ghdwn643@naver.com
+  name: Songzi Vong
+  url: https://github.com/vszhub/
+  email: vszhub@gmail.com
