@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 파이어베이스와 안드로이드 스튜디오로 앱 개발하기 #1(메인화면)
-date: 2020-09-29 23:18 +0800
-last_modified_at: 2020-10-01 01:08:25 +0800
+title: 안드로이드 스튜디오로 앱 개발하기(1.메인화면)
+date: 2021-03-02 23:18 +0800
+last_modified_at: 2021-12-31 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 ---
