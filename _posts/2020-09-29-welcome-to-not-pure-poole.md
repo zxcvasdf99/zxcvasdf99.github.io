@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 안드로이드 스튜디오 앱 개발하기 첫번째
-date: 2021-08-02 23:18 +0800
+date: 2020-09-29 23:18 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 ---
