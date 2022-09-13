@@ -7,7 +7,7 @@
 
     <div class="container pure-g">
       {%- assign cover_bg_color = site.cover_bg_color | default: "rgb(40, 73, 77)" -%}
-      {%- assign cover_color    = site.cover_color    | default: "rgb(255, 255, 255)" -%}
+      {%- assign cover_color    = site.cover_color    | default: "rgb(0, 0, 0)" -%}
       {%- assign cover_image    = site.cover_image -%}
       {%- if page.cover_bg_color -%}
         {%- assign cover_bg_color  = page.cover_bg_color -%}
@@ -30,6 +30,8 @@
       </div>
     </div>
 
+  <!-- 웹 폰트 설정 -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
     <script async src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
 
     {%- include scroll.html -%}
